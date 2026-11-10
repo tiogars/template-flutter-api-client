@@ -1,7 +1,7 @@
 name: domain_template_client
 description: Dart clients for the Task, Tag and Nomenclature APIs.
 version: 0.1.0
-repository: https://github.com/tiogars/template-java-solution
+repository: https://github.com/tiogars/template-flutter-api-client
 
 environment:
   sdk: ^3.4.0
